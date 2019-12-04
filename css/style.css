@@ -1,0 +1,19 @@
+.kuning {
+	width: 100%;
+	height: auto;
+	animation: pulse 7s;
+  }
+  
+  @keyframes pulse {
+	0% {
+	  background-color: #f5be3d;
+	}
+	100% {
+	  background-color: #1e1f26;
+	}
+  }
+  
+  html, body {
+	  width: 100%;
+	  height: auto;
+  }
