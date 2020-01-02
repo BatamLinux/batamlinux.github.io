@@ -17,17 +17,19 @@
     <div id="top">
         <!-- #top fullscreen image with site header -->
         <!-- Awal Navbar -->
-        <nav class="navbar navbar-expand-lg kuning navbar-dark shadow-sm" style="background-color: #1e1f26;">
-            <a class="navbar-brand ml-5" href="#"><img src="./img/logo-blug-white-min.png" alt="Batam Linux"
-                    width="50px"></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-                <div class="navbar-nav mr-5 ml-5">
-                    <a class="nav-item nav-link active" href="#">HOME<span class="sr-only">(current)</span></a>
-                    <a class="nav-item nav-link" href="#">ABOUT</a>
+        <nav class="navbar navbar-expand-lg kuning fixed-top navbar-dark shadow-sm">
+            <div class="container">
+                <a class="navbar-brand" href="#"><img src="./img/logo-blug-white-min.png" alt="Batam Linux"
+                        width="60px"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                    aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-item nav-link active" href="#home">HOME</a>
+                        <a class="nav-item nav-link" href="#about">ABOUT</a>
+                    </div>
                 </div>
             </div>
         </nav>
@@ -45,7 +47,34 @@
         <div id="topImage">
         </div>
     </div> <!-- END #top -->
-
+    <div class="container mt-5 mb-5">
+        <div class="about">
+            <h2 id="about">Divisi</h2>
+            <div class="container">
+                <div class="row text-center">
+                    <div class="card col-sm mb-2">
+                        <h5>Programming</h5>
+                        <p>
+                        Divisi yang menampung dan mengembangkan kreativitas serta pembelajaran dalam bidang programming
+                        </p>
+                    </div>
+                    <div class="card col-sm mb-2">
+                        <h5>Networking</h5>
+                        <p>Divisi yang menaungi pengembangan minat dan bakat dalam ilmu manajemen jaringan.</p>
+                    </div>
+                    <div class="card col-sm mb-2">
+                        <h5>Media & Informasi</h5>
+                        <p>Divisi yang berperan dalam pengembangan bakat di bidang multimedia yang bertugas mengelola informasi dan menjalin hubungan dengan pihak luar.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="footer text-center text-muted mt-auto py-2">
+        <div class="container">
+            <p>Copyright &copy 2020. Designed and built with all the love by <strong>onux</strong>.</p>
+            </div>
+    </footer>
 
     <!-- scripts -->
     <script src="js/particles.js"></script>
