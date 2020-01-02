@@ -17,12 +17,12 @@ body, html{
     width: 100%;
     height: 100%;
     background-color: #131417;;
-    z-index: 2;
+    z-index: -1 ;
 }
 #topTextWrapper{
     position: absolute;
     width: 100%;
-    height: 100%;
+    height: 110%;
     z-index: 3;
 }
 #topText{
@@ -44,19 +44,25 @@ body, html{
     margin:0;
     padding:0;
 }
+/* akhir css fullscreem */
+
 .kuning {
 	width: 100%;
 	height: auto;
 	animation: pulse 7s;
   }
-  @keyframes pulse {
-	0% {
-	  background-color: #f5be3d;
-	}
-	100% {
-	  background-color: #1e1f26;
-	}
-  }
- 
-
+@keyframes pulse {
+  0% {
+    background-color: #f5be3d;
+    }
+  100% {
+    background-color: #1e1f26;
+    }
+}
+.navbar {
+  background-color: #1e1f26;
+}
+.footer {
+  background-color: #1e1f26;
+}
   
