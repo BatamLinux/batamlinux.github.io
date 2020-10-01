@@ -1,30 +1,6 @@
-# Edition
+# Docs Batam Linux
 
-Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
-Start documenting your product, application, service or website with this configurable theme.
-
-![Edition template screenshot](images/_screenshot.png)
-
-Edition was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
-
-## Features
-
-* Two column layout
-* Full text search
-* Pre-styled components
-* Auto-generated navigation based on category
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* Change log
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
-
-## Setup
-
-1. Add your site and author details in `_config.yml`.
-2. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+Docs Batam Linux merupakan [GitHub Pages](http://github.com/BatamLinux/batamlinux.github.io) yang diperuntukan untuk menampung file dokumentasi. Pages ini juga dapat dijadikan sebagai bahan belajar untuk kegiatan Hacktoberfest, dengan membantu membuat file dokumentasi cara melakukakan pull request.
 
 ## Develop
 
