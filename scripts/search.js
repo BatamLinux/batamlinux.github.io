@@ -1,5 +1,6 @@
 ---
 layout: null
+author: batam-linux
 ---
 (function () {
 	function getQueryVariable(variable) {
