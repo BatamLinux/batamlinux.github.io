@@ -5,6 +5,7 @@ Docs Batam Linux merupakan [GitHub Pages](http://github.com/BatamLinux/batamlinu
 ## Develop
 
 Edition was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should support newer versions as well.
+Jekyll is a simple static website generator.
 
 Install the dependencies with [Bundler](http://bundler.io/):
 
