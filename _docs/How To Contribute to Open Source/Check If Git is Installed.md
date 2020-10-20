@@ -9,11 +9,10 @@ Command Prompt (Windows) atau Terminal (Linux/Mac) dengan menggunakan baris peri
 
 > git --version
 
+Jika Git belum terinstall maka akan tampil pesan error seperti dibawah ini:
 
-To sync your contacts:
+> -bash: git: command not found
+> 'git' is not recognized as an internal or external command, operable program or batch file.
 
-1. Open your *User Settings*
-2. Select the **Connect Facebook** button
-3. Authorise ChatApp
-
-![](//placehold.it/800x600)
+ketika kita sudah mengetahui Git belum terinstall, maka langkah selanjutnya kita menginstall Git pada perangkat kita sesuai
+sistem operasi yang kita gunakan.
