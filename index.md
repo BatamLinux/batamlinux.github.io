@@ -2,37 +2,11 @@
 title: Welcome
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+Hai!, selamat datang di website dokumentasi BLUG. Bagi teman-teman yang belum tau apa itu BLUG bisa mengunjungi langsung ke Website utama kami di http://batamlinux.or.id,
+Website dokumentasi ini dibuat menggunakan tools Jekyls dan GitHub Pages yang berguna untuk menyimpan file atau membuat dokumentasi file.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
-
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
-
-### Features
-
-Explore more of ChatApp by reading about our features:
-
-#### Media
-
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
-
-#### Contact Syncing
-
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
-
-#### Devices
-
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+Adapun media sosial atau platform lain yang kami gunakan, antara lain sebagai berikut:
+Facebook: https://web.facebook.com/batamlinux
+Instagram: https://www.instagram.com/batamlinux/
+Twitter: https://twitter.com/batamlinux
+YouTube: https://www.youtube.com/channel/UCBdfF8Qb4W2bIXCUSYQh-fQ
